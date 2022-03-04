@@ -1,199 +1,218 @@
-DimensionMemberCode;DisplayString;ISO;WHO_REGION_CODE
-AFG;Afghanistan;AFG;EMR
-ALB;Albania;ALB;EUR
-DZA;Algeria;DZA;AFR
-AND;Andorra;AND;EUR
-AGO;Angola;AGO;AFR
-ATG;Antigua and Barbuda;ATG;AMR
-ARG;Argentina;ARG;AMR
-ARM;Armenia;ARM;EUR
-AUS;Australia;AUS;WPR
-AUT;Austria;AUT;EUR
-AZE;Azerbaijan;AZE;EUR
-BHS;Bahamas;BHS;AMR
-BHR;Bahrain;BHR;EMR
-BGD;Bangladesh;BGD;SEAR
-BRB;Barbados;BRB;AMR
-BLR;Belarus;BLR;EUR
-BEL;Belgium;BEL;EUR
-BLZ;Belize;BLZ;AMR
-BEN;Benin;BEN;AFR
-BTN;Bhutan;BTN;SEAR
-BOL;Bolivia (Plurinational State of);BOL;AMR
-BIH;Bosnia and Herzegovina;BIH;EUR
-BWA;Botswana;BWA;AFR
-BRA;Brazil;BRA;AMR
-BRN;Brunei Darussalam;BRN;WPR
-BGR;Bulgaria;BGR;EUR
-BFA;Burkina Faso;BFA;AFR
-BDI;Burundi;BDI;AFR
-KHM;Cambodia;KHM;WPR
-CMR;Cameroon;CMR;AFR
-CAN;Canada;CAN;AMR
-CPV;Cabo Verde;CPV;AFR
-CAF;Central African Republic;CAF;AFR
-TCD;Chad;TCD;AFR
-CHL;Chile;CHL;AMR
-CHN;China;CHN;WPR
-COL;Colombia;COL;AMR
-COM;Comoros;COM;AFR
-COG;Congo;COG;AFR
-COK;Cook Islands;COK;WPR
-CRI;Costa Rica;CRI;AMR
-HRV;Croatia;HRV;EUR
-CUB;Cuba;CUB;AMR
-CYP;Cyprus;CYP;EUR
-CZE;Czechia;CZE;EUR
-CIV;Cte d'Ivoire;CIV;AFR
-PRK;Democratic People's Republic of Korea;PRK;SEAR
-COD;Democratic Republic of the Congo;COD;AFR
-DNK;Denmark;DNK;EUR
-DJI;Djibouti;DJI;EMR
-DMA;Dominica;DMA;AMR
-DOM;Dominican Republic;DOM;AMR
-ECU;Ecuador;ECU;AMR
-EGY;Egypt;EGY;EMR
-SLV;El Salvador;SLV;AMR
-GNQ;Equatorial Guinea;GNQ;AFR
-ERI;Eritrea;ERI;AFR
-EST;Estonia;EST;EUR
-ETH;Ethiopia;ETH;AFR
-FJI;Fiji;FJI;WPR
-FIN;Finland;FIN;EUR
-FRA;France;FRA;EUR
-GAB;Gabon;GAB;AFR
-GMB;Gambia;GMB;AFR
-GEO;Georgia;GEO;EUR
-DEU;Germany;DEU;EUR
-GHA;Ghana;GHA;AFR
-GRC;Greece;GRC;EUR
-GRD;Grenada;GRD;AMR
-GTM;Guatemala;GTM;AMR
-GIN;Guinea;GIN;AFR
-GNB;Guinea-Bissau;GNB;AFR
-GUY;Guyana;GUY;AMR
-HTI;Haiti;HTI;AMR
-HND;Honduras;HND;AMR
-HUN;Hungary;HUN;EUR
-ISL;Iceland;ISL;EUR
-IND;India;IND;SEAR
-IDN;Indonesia;IDN;SEAR
-IRN;Iran (Islamic Republic of);IRN;EMR
-IRQ;Iraq;IRQ;EMR
-IRL;Ireland;IRL;EUR
-ISR;Israel;ISR;EUR
-ITA;Italy;ITA;EUR
-JAM;Jamaica;JAM;AMR
-JPN;Japan;JPN;WPR
-JOR;Jordan;JOR;EMR
-KAZ;Kazakhstan;KAZ;EUR
-KEN;Kenya;KEN;AFR
-KIR;Kiribati;KIR;WPR
-KWT;Kuwait;KWT;EMR
-KGZ;Kyrgyzstan;KGZ;EUR
-LAO;Lao People's Democratic Republic;LAO;WPR
-LVA;Latvia;LVA;EUR
-LBN;Lebanon;LBN;EMR
-LSO;Lesotho;LSO;AFR
-LBR;Liberia;LBR;AFR
-LBY;Libya;LBY;EMR
-LTU;Lithuania;LTU;EUR
-LUX;Luxembourg;LUX;EUR
-MDG;Madagascar;MDG;AFR
-MWI;Malawi;MWI;AFR
-MYS;Malaysia;MYS;WPR
-MDV;Maldives;MDV;SEAR
-MLI;Mali;MLI;AFR
-MLT;Malta;MLT;EUR
-MHL;Marshall Islands;MHL;WPR
-MRT;Mauritania;MRT;AFR
-MUS;Mauritius;MUS;AFR
-MEX;Mexico;MEX;AMR
-FSM;Micronesia (Federated States of);FSM;WPR
-MCO;Monaco;MCO;EUR
-MNG;Mongolia;MNG;WPR
-ME1;The former state union Serbia and Montenegro;ME1;SEAR
-MAR;Morocco;MAR;EMR
-MOZ;Mozambique;MOZ;AFR
-MMR;Myanmar;MMR;SEAR
-NAM;Namibia;NAM;AFR
-NRU;Nauru;NRU;WPR
-NPL;Nepal;NPL;SEAR
-NLD;Netherlands;NLD;EUR
-NZL;New Zealand;NZL;WPR
-NIC;Nicaragua;NIC;AMR
-NER;Niger;NER;AFR
-NGA;Nigeria;NGA;AFR
-NIU;Niue;NIU;WPR
-NOR;Norway;NOR;EUR
-OMN;Oman;OMN;EMR
-PAK;Pakistan;PAK;EMR
-PLW;Palau;PLW;WPR
-PAN;Panama;PAN;AMR
-PNG;Papua New Guinea;PNG;WPR
-PRY;Paraguay;PRY;AMR
-PER;Peru;PER;AMR
-PHL;Philippines;PHL;WPR
-POL;Poland;POL;EUR
-PRT;Portugal;PRT;EUR
-QAT;Qatar;QAT;EMR
-KOR;Republic of Korea;KOR;WPR
-MDA;Republic of Moldova;MDA;EUR
-ROU;Romania;ROU;EUR
-RUS;Russian Federation;RUS;EUR
-RWA;Rwanda;RWA;AFR
-KNA;Saint Kitts and Nevis;KNA;AMR
-LCA;Saint Lucia;LCA;AMR
-VCT;Saint Vincent and the Grenadines;VCT;AMR
-WSM;Samoa;WSM;WPR
-SMR;San Marino;SMR;EUR
-STP;Sao Tome and Principe;STP;AFR
-SAU;Saudi Arabia;SAU;EMR
-SEN;Senegal;SEN;AFR
-SRB;Serbia;SRB;EUR
-SYC;Seychelles;SYC;AFR
-SLE;Sierra Leone;SLE;AFR
-SGP;Singapore;SGP;WPR
-SVK;Slovakia;SVK;EUR
-SVN;Slovenia;SVN;EUR
-SLB;Solomon Islands;SLB;WPR
-SOM;Somalia;SOM;EMR
-ZAF;South Africa;ZAF;AFR
-ESP;Spain;ESP;EUR
-LKA;Sri Lanka;LKA;SEAR
-SDN;Sudan;SDN;EMR
-SUR;Suriname;SUR;AMR
-SWZ;Eswatini;SWZ;AFR
-SWE;Sweden;SWE;EUR
-CHE;Switzerland;CHE;EUR
-SYR;Syrian Arab Republic;SYR;EMR
-TJK;Tajikistan;TJK;EUR
-THA;Thailand;THA;SEAR
-MKD;North Macedonia;MKD;EUR
-TLS;Timor-Leste;TLS;SEAR
-TGO;Togo;TGO;AFR
-TON;Tonga;TON;WPR
-TTO;Trinidad and Tobago;TTO;AMR
-TUN;Tunisia;TUN;EMR
-TUR;Turkey;TUR;EUR
-TKM;Turkmenistan;TKM;EUR
-TUV;Tuvalu;TUV;WPR
-UGA;Uganda;UGA;AFR
-UKR;Ukraine;UKR;EUR
-ARE;United Arab Emirates;ARE;EMR
-GBR;United Kingdom of Great Britain and Northern Ireland;GBR;EUR
-TZA;United Republic of Tanzania;TZA;AFR
-USA;United States of America;USA;AMR
-URY;Uruguay;URY;AMR
-UZB;Uzbekistan;UZB;EUR
-VUT;Vanuatu;VUT;WPR
-VEN;Venezuela (Bolivarian Republic of);VEN;AMR
-VNM;Viet Nam;VNM;WPR
-YEM;Yemen;YEM;EMR
-ZMB;Zambia;ZMB;AFR
-ZWE;Zimbabwe;ZWE;AFR
-MNE;Montenegro;MNE;EUR
-AIA;Anguilla;AIA;AMR
-PSE;occupied Palestinian territory, including east Jerusalem;PSE;EMR
-SSD;South Sudan;SSD;AFR
-SDF;Sudan (former);SDF;EMR
+,ID,Name,RegionID,IncomeLevelID
+0,ABW,Aruba,LCN,HIC
+1,AFG,Afghanistan,SAS,LIC
+2,AGO,Angola,SSF,LMC
+3,ALB,Albania,ECS,UMC
+4,AND,Andorra,ECS,HIC
+5,ARE,United Arab Emirates,MEA,HIC
+6,ARG,Argentina,LCN,UMC
+7,ARM,Armenia,ECS,UMC
+8,ASM,American Samoa,EAS,UMC
+9,ATG,Antigua and Barbuda,LCN,HIC
+10,AUS,Australia,EAS,HIC
+11,AUT,Austria,ECS,HIC
+12,AZE,Azerbaijan,ECS,UMC
+13,BDI,Burundi,SSF,LIC
+14,BEL,Belgium,ECS,HIC
+15,BEN,Benin,SSF,LMC
+16,BFA,Burkina Faso,SSF,LIC
+17,BGD,Bangladesh,SAS,LMC
+18,BGR,Bulgaria,ECS,UMC
+19,BHR,Bahrain,MEA,HIC
+20,BHS,"Bahamas, The",LCN,HIC
+21,BIH,Bosnia and Herzegovina,ECS,UMC
+22,BLR,Belarus,ECS,UMC
+23,BLZ,Belize,LCN,LMC
+24,BMU,Bermuda,NAC,HIC
+25,BOL,Bolivia,LCN,LMC
+26,BRA,Brazil,LCN,UMC
+27,BRB,Barbados,LCN,HIC
+28,BRN,Brunei Darussalam,EAS,HIC
+29,BTN,Bhutan,SAS,LMC
+30,BWA,Botswana,SSF,UMC
+31,CAF,Central African Republic,SSF,LIC
+32,CAN,Canada,NAC,HIC
+33,CHE,Switzerland,ECS,HIC
+34,CHI,Channel Islands,ECS,HIC
+35,CHL,Chile,LCN,HIC
+36,CHN,China,EAS,UMC
+37,CIV,Cote d'Ivoire,SSF,LMC
+38,CMR,Cameroon,SSF,LMC
+39,COD,"Congo, Dem. Rep.",SSF,LIC
+40,COG,"Congo, Rep.",SSF,LMC
+41,COL,Colombia,LCN,UMC
+42,COM,Comoros,SSF,LMC
+43,CPV,Cabo Verde,SSF,LMC
+44,CRI,Costa Rica,LCN,UMC
+45,CUB,Cuba,LCN,UMC
+46,CUW,Curacao,LCN,HIC
+47,CYM,Cayman Islands,LCN,HIC
+48,CYP,Cyprus,ECS,HIC
+49,CZE,Czech Republic,ECS,HIC
+50,DEU,Germany,ECS,HIC
+51,DJI,Djibouti,MEA,LMC
+52,DMA,Dominica,LCN,UMC
+53,DNK,Denmark,ECS,HIC
+54,DOM,Dominican Republic,LCN,UMC
+55,DZA,Algeria,MEA,LMC
+56,ECU,Ecuador,LCN,UMC
+57,EGY,"Egypt, Arab Rep.",MEA,LMC
+58,ERI,Eritrea,SSF,LIC
+59,ESP,Spain,ECS,HIC
+60,EST,Estonia,ECS,HIC
+61,ETH,Ethiopia,SSF,LIC
+62,FIN,Finland,ECS,HIC
+63,FJI,Fiji,EAS,UMC
+64,FRA,France,ECS,HIC
+65,FRO,Faroe Islands,ECS,HIC
+66,FSM,"Micronesia, Fed. Sts.",EAS,LMC
+67,GAB,Gabon,SSF,UMC
+68,GBR,United Kingdom,ECS,HIC
+69,GEO,Georgia,ECS,UMC
+70,GHA,Ghana,SSF,LMC
+71,GIB,Gibraltar,ECS,HIC
+72,GIN,Guinea,SSF,LIC
+73,GMB,"Gambia, The",SSF,LIC
+74,GNB,Guinea-Bissau,SSF,LIC
+75,GNQ,Equatorial Guinea,SSF,UMC
+76,GRC,Greece,ECS,HIC
+77,GRD,Grenada,LCN,UMC
+78,GRL,Greenland,ECS,HIC
+79,GTM,Guatemala,LCN,UMC
+80,GUM,Guam,EAS,HIC
+81,GUY,Guyana,LCN,UMC
+82,HKG,"Hong Kong SAR, China",EAS,HIC
+83,HND,Honduras,LCN,LMC
+84,HRV,Croatia,ECS,HIC
+85,HTI,Haiti,LCN,LMC
+86,HUN,Hungary,ECS,HIC
+87,IDN,Indonesia,EAS,LMC
+88,IMN,Isle of Man,ECS,HIC
+89,IND,India,SAS,LMC
+90,IRL,Ireland,ECS,HIC
+91,IRN,"Iran, Islamic Rep.",MEA,LMC
+92,IRQ,Iraq,MEA,UMC
+93,ISL,Iceland,ECS,HIC
+94,ISR,Israel,MEA,HIC
+95,ITA,Italy,ECS,HIC
+96,JAM,Jamaica,LCN,UMC
+97,JOR,Jordan,MEA,UMC
+98,JPN,Japan,EAS,HIC
+99,KAZ,Kazakhstan,ECS,UMC
+100,KEN,Kenya,SSF,LMC
+101,KGZ,Kyrgyz Republic,ECS,LMC
+102,KHM,Cambodia,EAS,LMC
+103,KIR,Kiribati,EAS,LMC
+104,KNA,St. Kitts and Nevis,LCN,HIC
+105,KOR,"Korea, Rep.",EAS,HIC
+106,KWT,Kuwait,MEA,HIC
+107,LAO,Lao PDR,EAS,LMC
+108,LBN,Lebanon,MEA,UMC
+109,LBR,Liberia,SSF,LIC
+110,LBY,Libya,MEA,UMC
+111,LCA,St. Lucia,LCN,UMC
+112,LIE,Liechtenstein,ECS,HIC
+113,LKA,Sri Lanka,SAS,LMC
+114,LSO,Lesotho,SSF,LMC
+115,LTU,Lithuania,ECS,HIC
+116,LUX,Luxembourg,ECS,HIC
+117,LVA,Latvia,ECS,HIC
+118,MAC,"Macao SAR, China",EAS,HIC
+119,MAF,St. Martin (French part),LCN,HIC
+120,MAR,Morocco,MEA,LMC
+121,MCO,Monaco,ECS,HIC
+122,MDA,Moldova,ECS,UMC
+123,MDG,Madagascar,SSF,LIC
+124,MDV,Maldives,SAS,UMC
+125,MEX,Mexico,LCN,UMC
+126,MHL,Marshall Islands,EAS,UMC
+127,MKD,North Macedonia,ECS,UMC
+128,MLI,Mali,SSF,LIC
+129,MLT,Malta,MEA,HIC
+130,MMR,Myanmar,EAS,LMC
+131,MNE,Montenegro,ECS,UMC
+132,MNG,Mongolia,EAS,LMC
+133,MNP,Northern Mariana Islands,EAS,HIC
+134,MOZ,Mozambique,SSF,LIC
+135,MRT,Mauritania,SSF,LMC
+136,MUS,Mauritius,SSF,UMC
+137,MWI,Malawi,SSF,LIC
+138,MYS,Malaysia,EAS,UMC
+139,NAM,Namibia,SSF,UMC
+140,NCL,New Caledonia,EAS,HIC
+141,NER,Niger,SSF,LIC
+142,NGA,Nigeria,SSF,LMC
+143,NIC,Nicaragua,LCN,LMC
+144,NLD,Netherlands,ECS,HIC
+145,NOR,Norway,ECS,HIC
+146,NPL,Nepal,SAS,LMC
+147,NRU,Nauru,EAS,HIC
+148,NZL,New Zealand,EAS,HIC
+149,OMN,Oman,MEA,HIC
+150,PAK,Pakistan,SAS,LMC
+151,PAN,Panama,LCN,UMC
+152,PER,Peru,LCN,UMC
+153,PHL,Philippines,EAS,LMC
+154,PLW,Palau,EAS,HIC
+155,PNG,Papua New Guinea,EAS,LMC
+156,POL,Poland,ECS,HIC
+157,PRI,Puerto Rico,LCN,HIC
+158,PRK,"Korea, Dem. People's Rep.",EAS,LIC
+159,PRT,Portugal,ECS,HIC
+160,PRY,Paraguay,LCN,UMC
+161,PSE,West Bank and Gaza,MEA,LMC
+162,PYF,French Polynesia,EAS,HIC
+163,QAT,Qatar,MEA,HIC
+164,ROU,Romania,ECS,UMC
+165,RUS,Russian Federation,ECS,UMC
+166,RWA,Rwanda,SSF,LIC
+167,SAU,Saudi Arabia,MEA,HIC
+168,SDN,Sudan,SSF,LIC
+169,SEN,Senegal,SSF,LMC
+170,SGP,Singapore,EAS,HIC
+171,SLB,Solomon Islands,EAS,LMC
+172,SLE,Sierra Leone,SSF,LIC
+173,SLV,El Salvador,LCN,LMC
+174,SMR,San Marino,ECS,HIC
+175,SOM,Somalia,SSF,LIC
+176,SRB,Serbia,ECS,UMC
+177,SSD,South Sudan,SSF,LIC
+178,STP,Sao Tome and Principe,SSF,LMC
+179,SUR,Suriname,LCN,UMC
+180,SVK,Slovak Republic,ECS,HIC
+181,SVN,Slovenia,ECS,HIC
+182,SWE,Sweden,ECS,HIC
+183,SWZ,Eswatini,SSF,LMC
+184,SXM,Sint Maarten (Dutch part),LCN,HIC
+185,SYC,Seychelles,SSF,HIC
+186,SYR,Syrian Arab Republic,MEA,LIC
+187,TCA,Turks and Caicos Islands,LCN,HIC
+188,TCD,Chad,SSF,LIC
+189,TGO,Togo,SSF,LIC
+190,THA,Thailand,EAS,UMC
+191,TJK,Tajikistan,ECS,LMC
+192,TKM,Turkmenistan,ECS,UMC
+193,TLS,Timor-Leste,EAS,LMC
+194,TON,Tonga,EAS,UMC
+195,TTO,Trinidad and Tobago,LCN,HIC
+196,TUN,Tunisia,MEA,LMC
+197,TUR,Turkey,ECS,UMC
+198,TUV,Tuvalu,EAS,UMC
+199,TZA,Tanzania,SSF,LMC
+200,UGA,Uganda,SSF,LIC
+201,UKR,Ukraine,ECS,LMC
+202,URY,Uruguay,LCN,HIC
+203,USA,United States,NAC,HIC
+204,UZB,Uzbekistan,ECS,LMC
+205,VCT,St. Vincent and the Grenadines,LCN,UMC
+206,VEN,"Venezuela, RB",LCN,INX
+207,VGB,British Virgin Islands,LCN,HIC
+208,VIR,Virgin Islands (U.S.),LCN,HIC
+209,VNM,Vietnam,EAS,LMC
+210,VUT,Vanuatu,EAS,LMC
+211,WSM,Samoa,EAS,LMC
+212,XKX,Kosovo,ECS,UMC
+213,YEM,"Yemen, Rep.",MEA,LIC
+214,ZAF,South Africa,SSF,UMC
+215,ZMB,Zambia,SSF,LMC
+216,ZWE,Zimbabwe,SSF,LMC
