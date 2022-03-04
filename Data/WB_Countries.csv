@@ -1,0 +1,199 @@
+DimensionMemberCode;DisplayString;ISO;WHO_REGION_CODE
+AFG;Afghanistan;AFG;EMR
+ALB;Albania;ALB;EUR
+DZA;Algeria;DZA;AFR
+AND;Andorra;AND;EUR
+AGO;Angola;AGO;AFR
+ATG;Antigua and Barbuda;ATG;AMR
+ARG;Argentina;ARG;AMR
+ARM;Armenia;ARM;EUR
+AUS;Australia;AUS;WPR
+AUT;Austria;AUT;EUR
+AZE;Azerbaijan;AZE;EUR
+BHS;Bahamas;BHS;AMR
+BHR;Bahrain;BHR;EMR
+BGD;Bangladesh;BGD;SEAR
+BRB;Barbados;BRB;AMR
+BLR;Belarus;BLR;EUR
+BEL;Belgium;BEL;EUR
+BLZ;Belize;BLZ;AMR
+BEN;Benin;BEN;AFR
+BTN;Bhutan;BTN;SEAR
+BOL;Bolivia (Plurinational State of);BOL;AMR
+BIH;Bosnia and Herzegovina;BIH;EUR
+BWA;Botswana;BWA;AFR
+BRA;Brazil;BRA;AMR
+BRN;Brunei Darussalam;BRN;WPR
+BGR;Bulgaria;BGR;EUR
+BFA;Burkina Faso;BFA;AFR
+BDI;Burundi;BDI;AFR
+KHM;Cambodia;KHM;WPR
+CMR;Cameroon;CMR;AFR
+CAN;Canada;CAN;AMR
+CPV;Cabo Verde;CPV;AFR
+CAF;Central African Republic;CAF;AFR
+TCD;Chad;TCD;AFR
+CHL;Chile;CHL;AMR
+CHN;China;CHN;WPR
+COL;Colombia;COL;AMR
+COM;Comoros;COM;AFR
+COG;Congo;COG;AFR
+COK;Cook Islands;COK;WPR
+CRI;Costa Rica;CRI;AMR
+HRV;Croatia;HRV;EUR
+CUB;Cuba;CUB;AMR
+CYP;Cyprus;CYP;EUR
+CZE;Czechia;CZE;EUR
+CIV;Cte d'Ivoire;CIV;AFR
+PRK;Democratic People's Republic of Korea;PRK;SEAR
+COD;Democratic Republic of the Congo;COD;AFR
+DNK;Denmark;DNK;EUR
+DJI;Djibouti;DJI;EMR
+DMA;Dominica;DMA;AMR
+DOM;Dominican Republic;DOM;AMR
+ECU;Ecuador;ECU;AMR
+EGY;Egypt;EGY;EMR
+SLV;El Salvador;SLV;AMR
+GNQ;Equatorial Guinea;GNQ;AFR
+ERI;Eritrea;ERI;AFR
+EST;Estonia;EST;EUR
+ETH;Ethiopia;ETH;AFR
+FJI;Fiji;FJI;WPR
+FIN;Finland;FIN;EUR
+FRA;France;FRA;EUR
+GAB;Gabon;GAB;AFR
+GMB;Gambia;GMB;AFR
+GEO;Georgia;GEO;EUR
+DEU;Germany;DEU;EUR
+GHA;Ghana;GHA;AFR
+GRC;Greece;GRC;EUR
+GRD;Grenada;GRD;AMR
+GTM;Guatemala;GTM;AMR
+GIN;Guinea;GIN;AFR
+GNB;Guinea-Bissau;GNB;AFR
+GUY;Guyana;GUY;AMR
+HTI;Haiti;HTI;AMR
+HND;Honduras;HND;AMR
+HUN;Hungary;HUN;EUR
+ISL;Iceland;ISL;EUR
+IND;India;IND;SEAR
+IDN;Indonesia;IDN;SEAR
+IRN;Iran (Islamic Republic of);IRN;EMR
+IRQ;Iraq;IRQ;EMR
+IRL;Ireland;IRL;EUR
+ISR;Israel;ISR;EUR
+ITA;Italy;ITA;EUR
+JAM;Jamaica;JAM;AMR
+JPN;Japan;JPN;WPR
+JOR;Jordan;JOR;EMR
+KAZ;Kazakhstan;KAZ;EUR
+KEN;Kenya;KEN;AFR
+KIR;Kiribati;KIR;WPR
+KWT;Kuwait;KWT;EMR
+KGZ;Kyrgyzstan;KGZ;EUR
+LAO;Lao People's Democratic Republic;LAO;WPR
+LVA;Latvia;LVA;EUR
+LBN;Lebanon;LBN;EMR
+LSO;Lesotho;LSO;AFR
+LBR;Liberia;LBR;AFR
+LBY;Libya;LBY;EMR
+LTU;Lithuania;LTU;EUR
+LUX;Luxembourg;LUX;EUR
+MDG;Madagascar;MDG;AFR
+MWI;Malawi;MWI;AFR
+MYS;Malaysia;MYS;WPR
+MDV;Maldives;MDV;SEAR
+MLI;Mali;MLI;AFR
+MLT;Malta;MLT;EUR
+MHL;Marshall Islands;MHL;WPR
+MRT;Mauritania;MRT;AFR
+MUS;Mauritius;MUS;AFR
+MEX;Mexico;MEX;AMR
+FSM;Micronesia (Federated States of);FSM;WPR
+MCO;Monaco;MCO;EUR
+MNG;Mongolia;MNG;WPR
+ME1;The former state union Serbia and Montenegro;ME1;SEAR
+MAR;Morocco;MAR;EMR
+MOZ;Mozambique;MOZ;AFR
+MMR;Myanmar;MMR;SEAR
+NAM;Namibia;NAM;AFR
+NRU;Nauru;NRU;WPR
+NPL;Nepal;NPL;SEAR
+NLD;Netherlands;NLD;EUR
+NZL;New Zealand;NZL;WPR
+NIC;Nicaragua;NIC;AMR
+NER;Niger;NER;AFR
+NGA;Nigeria;NGA;AFR
+NIU;Niue;NIU;WPR
+NOR;Norway;NOR;EUR
+OMN;Oman;OMN;EMR
+PAK;Pakistan;PAK;EMR
+PLW;Palau;PLW;WPR
+PAN;Panama;PAN;AMR
+PNG;Papua New Guinea;PNG;WPR
+PRY;Paraguay;PRY;AMR
+PER;Peru;PER;AMR
+PHL;Philippines;PHL;WPR
+POL;Poland;POL;EUR
+PRT;Portugal;PRT;EUR
+QAT;Qatar;QAT;EMR
+KOR;Republic of Korea;KOR;WPR
+MDA;Republic of Moldova;MDA;EUR
+ROU;Romania;ROU;EUR
+RUS;Russian Federation;RUS;EUR
+RWA;Rwanda;RWA;AFR
+KNA;Saint Kitts and Nevis;KNA;AMR
+LCA;Saint Lucia;LCA;AMR
+VCT;Saint Vincent and the Grenadines;VCT;AMR
+WSM;Samoa;WSM;WPR
+SMR;San Marino;SMR;EUR
+STP;Sao Tome and Principe;STP;AFR
+SAU;Saudi Arabia;SAU;EMR
+SEN;Senegal;SEN;AFR
+SRB;Serbia;SRB;EUR
+SYC;Seychelles;SYC;AFR
+SLE;Sierra Leone;SLE;AFR
+SGP;Singapore;SGP;WPR
+SVK;Slovakia;SVK;EUR
+SVN;Slovenia;SVN;EUR
+SLB;Solomon Islands;SLB;WPR
+SOM;Somalia;SOM;EMR
+ZAF;South Africa;ZAF;AFR
+ESP;Spain;ESP;EUR
+LKA;Sri Lanka;LKA;SEAR
+SDN;Sudan;SDN;EMR
+SUR;Suriname;SUR;AMR
+SWZ;Eswatini;SWZ;AFR
+SWE;Sweden;SWE;EUR
+CHE;Switzerland;CHE;EUR
+SYR;Syrian Arab Republic;SYR;EMR
+TJK;Tajikistan;TJK;EUR
+THA;Thailand;THA;SEAR
+MKD;North Macedonia;MKD;EUR
+TLS;Timor-Leste;TLS;SEAR
+TGO;Togo;TGO;AFR
+TON;Tonga;TON;WPR
+TTO;Trinidad and Tobago;TTO;AMR
+TUN;Tunisia;TUN;EMR
+TUR;Turkey;TUR;EUR
+TKM;Turkmenistan;TKM;EUR
+TUV;Tuvalu;TUV;WPR
+UGA;Uganda;UGA;AFR
+UKR;Ukraine;UKR;EUR
+ARE;United Arab Emirates;ARE;EMR
+GBR;United Kingdom of Great Britain and Northern Ireland;GBR;EUR
+TZA;United Republic of Tanzania;TZA;AFR
+USA;United States of America;USA;AMR
+URY;Uruguay;URY;AMR
+UZB;Uzbekistan;UZB;EUR
+VUT;Vanuatu;VUT;WPR
+VEN;Venezuela (Bolivarian Republic of);VEN;AMR
+VNM;Viet Nam;VNM;WPR
+YEM;Yemen;YEM;EMR
+ZMB;Zambia;ZMB;AFR
+ZWE;Zimbabwe;ZWE;AFR
+MNE;Montenegro;MNE;EUR
+AIA;Anguilla;AIA;AMR
+PSE;occupied Palestinian territory, including east Jerusalem;PSE;EMR
+SSD;South Sudan;SSD;AFR
+SDF;Sudan (former);SDF;EMR
