@@ -1,481 +1,444 @@
-LOCATION;SUBJECT;TIME;Value
-AUS;TOT;2012;0.271
-AUS;TOT;2014;0.278
-AUS;TOT;2016;0.287
-AUS;TOT;2018;0.297
-AUT;TOT;2007;0.28
-AUT;TOT;2008;0.302
-AUT;TOT;2009;0.328
-AUT;TOT;2010;0.297
-AUT;TOT;2011;0.327
-AUT;TOT;2012;0.335
-AUT;TOT;2013;0.281
-AUT;TOT;2014;0.278
-AUT;TOT;2015;0.335
-AUT;TOT;2016;0.353
-AUT;TOT;2017;0.29
-AUT;TOT;2018;0.322
-AUT;TOT;2019;0.294
-BEL;TOT;2018;0.219
-BEL;TOT;2019;0.233
-CAN;TOT;1976;0.324
-CAN;TOT;1977;0.349
-CAN;TOT;1978;0.33
-CAN;TOT;1979;0.335
-CAN;TOT;1980;0.325
-CAN;TOT;1981;0.313
-CAN;TOT;1982;0.307
-CAN;TOT;1983;0.299
-CAN;TOT;1984;0.322
-CAN;TOT;1985;0.314
-CAN;TOT;1986;0.307
-CAN;TOT;1987;0.3
-CAN;TOT;1988;0.296
-CAN;TOT;1989;0.292
-CAN;TOT;1990;0.301
-CAN;TOT;1991;0.3
-CAN;TOT;1992;0.304
-CAN;TOT;1993;0.281
-CAN;TOT;1994;0.294
-CAN;TOT;1995;0.293
-CAN;TOT;1996;0.301
-CAN;TOT;1997;0.311
-CAN;TOT;1998;0.307
-CAN;TOT;1999;0.32
-CAN;TOT;2000;0.306
-CAN;TOT;2001;0.302
-CAN;TOT;2002;0.302
-CAN;TOT;2003;0.301
-CAN;TOT;2004;0.298
-CAN;TOT;2005;0.309
-CAN;TOT;2006;0.3
-CAN;TOT;2007;0.298
-CAN;TOT;2008;0.304
-CAN;TOT;2009;0.302
-CAN;TOT;2010;0.291
-CAN;TOT;2011;0.306
-CAN;TOT;2012;0.317
-CAN;TOT;2013;0.325
-CAN;TOT;2014;0.312
-CAN;TOT;2015;0.306
-CAN;TOT;2016;0.304
-CAN;TOT;2017;0.305
-CAN;TOT;2018;0.298
-CAN;TOT;2019;0.303
-CZE;TOT;2004;0.231
-CZE;TOT;2005;0.202
-CZE;TOT;2006;0.223
-CZE;TOT;2007;0.231
-CZE;TOT;2008;0.227
-CZE;TOT;2009;0.245
-CZE;TOT;2010;0.237
-CZE;TOT;2011;0.239
-CZE;TOT;2012;0.248
-CZE;TOT;2013;0.217
-CZE;TOT;2014;0.236
-CZE;TOT;2015;0.214
-CZE;TOT;2016;0.236
-CZE;TOT;2017;0.218
-CZE;TOT;2018;0.199
-CZE;TOT;2019;0.203
-DNK;TOT;2011;0.294
-DNK;TOT;2012;0.305
-DNK;TOT;2013;0.308
-DNK;TOT;2014;0.307
-DNK;TOT;2015;0.31
-DNK;TOT;2016;0.299
-DNK;TOT;2017;0.294
-DNK;TOT;2018;0.289
-FIN;TOT;1987;0.257
-FIN;TOT;1988;0.228
-FIN;TOT;1989;0.209
-FIN;TOT;1990;0.209
-FIN;TOT;1991;0.238
-FIN;TOT;1992;0.232
-FIN;TOT;1993;0.258
-FIN;TOT;1994;0.218
-FIN;TOT;1995;0.218
-FIN;TOT;1996;0.215
-FIN;TOT;1997;0.224
-FIN;TOT;1998;0.223
-FIN;TOT;1999;0.222
-FIN;TOT;2000;0.218
-FIN;TOT;2001;0.221
-FIN;TOT;2002;0.218
-FIN;TOT;2003;0.229
-FIN;TOT;2004;0.208
-FIN;TOT;2005;0.209
-FIN;TOT;2006;0.206
-FIN;TOT;2007;0.206
-FIN;TOT;2008;0.209
-FIN;TOT;2009;0.208
-FIN;TOT;2010;0.217
-FIN;TOT;2011;0.208
-FIN;TOT;2012;0.226
-FIN;TOT;2013;0.21
-FIN;TOT;2014;0.213
-FIN;TOT;2015;0.223
-FIN;TOT;2016;0.225
-FIN;TOT;2017;0.21
-FIN;TOT;2018;0.212
-FRA;TOT;2012;0.262
-FRA;TOT;2013;0.244
-FRA;TOT;2014;0.257
-FRA;TOT;2015;0.238
-FRA;TOT;2016;0.239
-FRA;TOT;2017;0.253
-FRA;TOT;2018;0.242
-FRA;TOT;2019;0.261
-DEU;TOT;2008;0.237
-DEU;TOT;2011;0.236
-DEU;TOT;2012;0.218
-DEU;TOT;2013;0.227
-DEU;TOT;2014;0.257
-DEU;TOT;2015;0.256
-DEU;TOT;2016;0.265
-DEU;TOT;2017;0.251
-DEU;TOT;2018;0.256
-GRC;TOT;2004;0.309
-GRC;TOT;2005;0.292
-GRC;TOT;2006;0.316
-GRC;TOT;2007;0.31
-GRC;TOT;2008;0.297
-GRC;TOT;2009;0.304
-GRC;TOT;2010;0.343
-GRC;TOT;2011;0.395
-GRC;TOT;2012;0.387
-GRC;TOT;2013;0.347
-GRC;TOT;2014;0.389
-GRC;TOT;2015;0.379
-GRC;TOT;2016;0.353
-GRC;TOT;2017;0.336
-GRC;TOT;2018;0.292
-GRC;TOT;2019;0.331
-HUN;TOT;2006;0.231
-HUN;TOT;2007;0.226
-HUN;TOT;2008;0.198
-HUN;TOT;2009;0.191
-HUN;TOT;2010;0.199
-HUN;TOT;2011;0.219
-HUN;TOT;2012;0.25
-HUN;TOT;2013;0.234
-HUN;TOT;2014;0.291
-HUN;TOT;2015;0.327
-HUN;TOT;2016;0.426
-HUN;TOT;2017;0.349
-HUN;TOT;2018;0.32
-HUN;TOT;2019;0.343
-ISL;TOT;2004;0.306
-ISL;TOT;2005;0.306
-ISL;TOT;2006;0.281
-ISL;TOT;2007;0.247
-ISL;TOT;2008;0.279
-ISL;TOT;2009;0.299
-ISL;TOT;2010;0.298
-ISL;TOT;2011;0.334
-ISL;TOT;2012;0.282
-ISL;TOT;2013;0.301
-ISL;TOT;2014;0.334
-ISL;TOT;2015;0.271
-ISL;TOT;2016;0.269
-ISL;TOT;2017;0.267
-IRL;TOT;2004;0.203
-IRL;TOT;2005;0.185
-IRL;TOT;2006;0.218
-IRL;TOT;2007;0.21
-IRL;TOT;2008;0.228
-IRL;TOT;2009;0.299
-IRL;TOT;2010;0.326
-IRL;TOT;2011;0.294
-IRL;TOT;2012;0.277
-IRL;TOT;2013;0.302
-IRL;TOT;2014;0.254
-IRL;TOT;2015;0.232
-IRL;TOT;2016;0.237
-IRL;TOT;2017;0.223
-IRL;TOT;2018;0.187
-ITA;TOT;2004;0.332
-ITA;TOT;2005;0.337
-ITA;TOT;2006;0.334
-ITA;TOT;2007;0.332
-ITA;TOT;2008;0.332
-ITA;TOT;2009;0.342
-ITA;TOT;2010;0.377
-ITA;TOT;2011;0.369
-ITA;TOT;2012;0.401
-ITA;TOT;2013;0.399
-ITA;TOT;2014;0.397
-ITA;TOT;2015;0.437
-ITA;TOT;2016;0.408
-ITA;TOT;2017;0.404
-ITA;TOT;2018;0.396
-JPN;TOT;2018;0.364
-KOR;TOT;2015;0.354
-KOR;TOT;2016;0.351
-KOR;TOT;2017;0.355
-KOR;TOT;2018;0.342
-LUX;TOT;2015;0.285
-LUX;TOT;2016;0.288
-LUX;TOT;2017;0.352
-LUX;TOT;2018;0.325
-LUX;TOT;2019;0.25
-MEX;TOT;2012;0.384
-MEX;TOT;2014;0.334
-MEX;TOT;2016;0.335
-MEX;TOT;2018;0.323
-NLD;TOT;2011;0.311
-NLD;TOT;2012;0.317
-NLD;TOT;2013;0.314
-NLD;TOT;2014;0.31
-NLD;TOT;2015;0.331
-NLD;TOT;2016;0.309
-NLD;TOT;2017;0.315
-NLD;TOT;2018;0.32
-NLD;TOT;2019;0.324
-NZL;TOT;2011;0.258
-NZL;TOT;2012;0.233
-NZL;TOT;2014;0.262
-NOR;TOT;2004;0.317
-NOR;TOT;2008;0.336
-NOR;TOT;2009;0.362
-NOR;TOT;2010;0.367
-NOR;TOT;2011;0.369
-NOR;TOT;2012;0.368
-NOR;TOT;2013;0.356
-NOR;TOT;2014;0.353
-NOR;TOT;2015;0.352
-NOR;TOT;2016;0.353
-NOR;TOT;2017;0.343
-NOR;TOT;2018;0.337
-NOR;TOT;2019;0.35
-POL;TOT;2005;0.294
-POL;TOT;2006;0.273
-POL;TOT;2007;0.277
-POL;TOT;2008;0.249
-POL;TOT;2009;0.267
-POL;TOT;2010;0.28
-POL;TOT;2011;0.272
-POL;TOT;2012;0.269
-POL;TOT;2013;0.271
-POL;TOT;2014;0.292
-POL;TOT;2015;0.288
-POL;TOT;2016;0.284
-POL;TOT;2017;0.286
-POL;TOT;2018;0.282
-PRT;TOT;2004;0.289
-PRT;TOT;2005;0.295
-PRT;TOT;2006;0.265
-PRT;TOT;2007;0.259
-PRT;TOT;2008;0.269
-PRT;TOT;2009;0.259
-PRT;TOT;2010;0.247
-PRT;TOT;2011;0.287
-PRT;TOT;2012;0.31
-PRT;TOT;2013;0.326
-PRT;TOT;2014;0.299
-PRT;TOT;2015;0.296
-PRT;TOT;2016;0.294
-PRT;TOT;2017;0.28
-PRT;TOT;2018;0.287
-PRT;TOT;2019;0.266
-SVK;TOT;2004;0.25
-SVK;TOT;2005;0.263
-SVK;TOT;2006;0.277
-SVK;TOT;2007;0.268
-SVK;TOT;2008;0.29
-SVK;TOT;2009;0.313
-SVK;TOT;2010;0.31
-SVK;TOT;2011;0.301
-SVK;TOT;2012;0.299
-SVK;TOT;2013;0.332
-SVK;TOT;2014;0.343
-SVK;TOT;2015;0.338
-SVK;TOT;2016;0.403
-SVK;TOT;2017;0.321
-SVK;TOT;2018;0.347
-SVK;TOT;2019;0.284
-ESP;TOT;2007;0.311
-ESP;TOT;2008;0.317
-ESP;TOT;2009;0.347
-ESP;TOT;2010;0.352
-ESP;TOT;2011;0.379
-ESP;TOT;2012;0.384
-ESP;TOT;2013;0.38
-ESP;TOT;2014;0.403
-ESP;TOT;2015;0.378
-ESP;TOT;2016;0.389
-ESP;TOT;2017;0.346
-ESP;TOT;2018;0.366
-ESP;TOT;2019;0.356
-SWE;TOT;2013;0.246
-SWE;TOT;2014;0.239
-SWE;TOT;2015;0.228
-SWE;TOT;2016;0.225
-SWE;TOT;2017;0.225
-SWE;TOT;2018;0.23
-SWE;TOT;2019;0.233
-CHE;TOT;2006;0.298
-CHE;TOT;2007;0.317
-CHE;TOT;2008;0.286
-CHE;TOT;2009;0.268
-CHE;TOT;2010;0.289
-CHE;TOT;2011;0.252
-CHE;TOT;2012;0.238
-CHE;TOT;2013;0.243
-CHE;TOT;2014;0.24
-CHE;TOT;2015;0.262
-CHE;TOT;2016;0.263
-CHE;TOT;2017;0.274
-CHE;TOT;2018;0.281
-TUR;TOT;2011;0.308
-TUR;TOT;2012;0.302
-TUR;TOT;2013;0.294
-TUR;TOT;2014;0.306
-TUR;TOT;2015;0.282
-TUR;TOT;2017;0.264
-TUR;TOT;2018;0.284
-GBR;TOT;2002;0.284
-GBR;TOT;2003;0.293
-GBR;TOT;2004;0.294
-GBR;TOT;2005;0.296
-GBR;TOT;2006;0.311
-GBR;TOT;2007;0.306
-GBR;TOT;2008;0.324
-GBR;TOT;2009;0.325
-GBR;TOT;2010;0.316
-GBR;TOT;2011;0.302
-GBR;TOT;2012;0.332
-GBR;TOT;2013;0.306
-GBR;TOT;2014;0.316
-GBR;TOT;2015;0.322
-GBR;TOT;2016;0.355
-GBR;TOT;2017;0.344
-GBR;TOT;2018;0.368
-GBR;TOT;2019;0.326
-USA;TOT;2013;0.402
-USA;TOT;2014;0.405
-USA;TOT;2015;0.4
-USA;TOT;2016;0.398
-USA;TOT;2017;0.388
-USA;TOT;2018;0.376
-USA;TOT;2019;0.368
-CHL;TOT;2009;0.339
-CHL;TOT;2011;0.317
-CHL;TOT;2013;0.315
-CHL;TOT;2015;0.31
-CHL;TOT;2017;0.31
-EST;TOT;2013;0.294
-EST;TOT;2014;0.283
-EST;TOT;2015;0.267
-EST;TOT;2016;0.265
-EST;TOT;2017;0.261
-EST;TOT;2018;0.262
-EST;TOT;2019;0.273
-ISR;TOT;2011;0.334
-ISR;TOT;2012;0.352
-ISR;TOT;2013;0.384
-ISR;TOT;2014;0.352
-ISR;TOT;2015;0.321
-ISR;TOT;2016;0.318
-ISR;TOT;2017;0.329
-ISR;TOT;2018;0.325
-RUS;TOT;2011;0.313
-RUS;TOT;2016;0.254
-RUS;TOT;2017;0.254
-SVN;TOT;2004;0.241
-SVN;TOT;2005;0.247
-SVN;TOT;2006;0.23
-SVN;TOT;2007;0.239
-SVN;TOT;2008;0.23
-SVN;TOT;2009;0.226
-SVN;TOT;2010;0.225
-SVN;TOT;2011;0.233
-SVN;TOT;2012;0.225
-SVN;TOT;2013;0.239
-SVN;TOT;2014;0.234
-SVN;TOT;2015;0.241
-SVN;TOT;2016;0.226
-SVN;TOT;2017;0.215
-SVN;TOT;2018;0.217
-SVN;TOT;2019;0.205
-LVA;TOT;2004;0.359
-LVA;TOT;2005;0.331
-LVA;TOT;2006;0.315
-LVA;TOT;2007;0.308
-LVA;TOT;2008;0.311
-LVA;TOT;2009;0.347
-LVA;TOT;2010;0.34
-LVA;TOT;2011;0.329
-LVA;TOT;2012;0.317
-LVA;TOT;2013;0.306
-LVA;TOT;2014;0.286
-LVA;TOT;2015;0.306
-LVA;TOT;2016;0.31
-LVA;TOT;2017;0.33
-LVA;TOT;2018;0.306
-LVA;TOT;2019;0.306
-LTU;TOT;2004;0.32
-LTU;TOT;2005;0.324
-LTU;TOT;2006;0.297
-LTU;TOT;2007;0.3
-LTU;TOT;2008;0.29
-LTU;TOT;2009;0.376
-LTU;TOT;2010;0.354
-LTU;TOT;2011;0.285
-LTU;TOT;2012;0.277
-LTU;TOT;2013;0.305
-LTU;TOT;2014;0.326
-LTU;TOT;2015;0.313
-LTU;TOT;2016;0.346
-LTU;TOT;2017;0.332
-LTU;TOT;2018;0.328
-LTU;TOT;2019;0.282
-BRA;TOT;2006;0.391
-BRA;TOT;2009;0.36
-BRA;TOT;2011;0.409
-BRA;TOT;2013;0.386
-BRA;TOT;2016;0.446
-CHN;TOT;2011;0.565
-CRI;TOT;2010;0.353
-CRI;TOT;2011;0.367
-CRI;TOT;2012;0.374
-CRI;TOT;2013;0.384
-CRI;TOT;2014;0.379
-CRI;TOT;2015;0.387
-CRI;TOT;2016;0.378
-CRI;TOT;2017;0.365
-CRI;TOT;2018;0.376
-CRI;TOT;2019;0.36
-CRI;TOT;2020;0.379
-IND;TOT;2004;0.35
-IND;TOT;2011;0.362
-ZAF;TOT;2015;0.431
-ZAF;TOT;2017;0.443
-BGR;TOT;2006;0.386
-BGR;TOT;2007;0.308
-BGR;TOT;2008;0.301
-BGR;TOT;2009;0.307
-BGR;TOT;2010;0.315
-BGR;TOT;2011;0.333
-BGR;TOT;2012;0.321
-BGR;TOT;2013;0.348
-BGR;TOT;2014;0.321
-BGR;TOT;2015;0.37
-BGR;TOT;2016;0.347
-BGR;TOT;2017;0.304
-BGR;TOT;2018;0.298
-BGR;TOT;2019;0.313
-ROU;TOT;2006;0.359
-ROU;TOT;2007;0.36
-ROU;TOT;2008;0.365
-ROU;TOT;2009;0.323
-ROU;TOT;2010;0.35
-ROU;TOT;2011;0.381
-ROU;TOT;2012;0.392
-ROU;TOT;2013;0.389
-ROU;TOT;2014;0.42
-ROU;TOT;2015;0.388
-ROU;TOT;2016;0.383
-ROU;TOT;2017;0.39
-ROU;TOT;2018;0.394
-ROU;TOT;2019;0.382
+,LOCATION,Measure,Year,Value
+0,AUS,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.271
+1,AUS,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.278
+2,AUS,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.287
+3,AUS,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.297
+4,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.28
+5,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.302
+6,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.328
+7,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.297
+8,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.327
+9,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.335
+10,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.281
+11,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.278
+12,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.335
+13,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.353
+14,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.29
+15,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.322
+16,AUT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.294
+17,BEL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.219
+18,BEL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.233
+19,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2000,0.306
+20,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2001,0.302
+21,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2002,0.302
+22,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2003,0.301
+23,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.298
+24,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.309
+25,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.3
+26,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.298
+27,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.304
+28,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.302
+29,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.291
+30,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.306
+31,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.317
+32,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.325
+33,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.312
+34,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.306
+35,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.304
+36,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.305
+37,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.298
+38,CAN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.303
+39,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.231
+40,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.202
+41,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.223
+42,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.231
+43,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.227
+44,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.245
+45,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.237
+46,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.239
+47,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.248
+48,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.217
+49,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.236
+50,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.214
+51,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.236
+52,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.218
+53,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.199
+54,CZE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.203
+55,DNK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.294
+56,DNK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.305
+57,DNK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.308
+58,DNK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.307
+59,DNK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.31
+60,DNK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.299
+61,DNK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.294
+62,DNK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.289
+63,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2000,0.218
+64,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2001,0.221
+65,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2002,0.218
+66,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2003,0.229
+67,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.208
+68,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.209
+69,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.206
+70,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.206
+71,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.209
+72,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.208
+73,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.217
+74,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.208
+75,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.226
+76,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.21
+77,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.213
+78,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.223
+79,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.225
+80,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.21
+81,FIN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.212
+82,FRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.262
+83,FRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.244
+84,FRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.257
+85,FRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.238
+86,FRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.239
+87,FRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.253
+88,FRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.242
+89,FRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.261
+90,DEU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.237
+91,DEU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.236
+92,DEU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.218
+93,DEU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.227
+94,DEU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.257
+95,DEU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.256
+96,DEU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.265
+97,DEU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.251
+98,DEU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.256
+99,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.309
+100,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.292
+101,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.316
+102,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.31
+103,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.297
+104,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.304
+105,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.343
+106,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.395
+107,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.387
+108,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.347
+109,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.389
+110,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.379
+111,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.353
+112,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.336
+113,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.292
+114,GRC,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.331
+115,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.231
+116,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.226
+117,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.198
+118,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.191
+119,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.199
+120,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.219
+121,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.25
+122,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.234
+123,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.291
+124,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.327
+125,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.426
+126,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.349
+127,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.32
+128,HUN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.343
+129,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.306
+130,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.306
+131,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.281
+132,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.247
+133,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.279
+134,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.299
+135,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.298
+136,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.334
+137,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.282
+138,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.301
+139,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.334
+140,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.271
+141,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.269
+142,ISL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.267
+143,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.203
+144,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.185
+145,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.218
+146,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.21
+147,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.228
+148,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.299
+149,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.326
+150,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.294
+151,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.277
+152,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.302
+153,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.254
+154,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.232
+155,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.237
+156,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.223
+157,IRL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.187
+158,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.332
+159,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.337
+160,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.334
+161,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.332
+162,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.332
+163,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.342
+164,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.377
+165,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.369
+166,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.401
+167,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.399
+168,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.397
+169,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.437
+170,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.408
+171,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.404
+172,ITA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.396
+173,KOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.354
+174,KOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.351
+175,KOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.355
+176,KOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.342
+177,LUX,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.285
+178,LUX,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.288
+179,LUX,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.352
+180,LUX,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.325
+181,LUX,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.25
+182,MEX,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.384
+183,MEX,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.334
+184,MEX,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.335
+185,MEX,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.323
+186,NLD,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.311
+187,NLD,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.317
+188,NLD,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.314
+189,NLD,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.31
+190,NLD,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.331
+191,NLD,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.309
+192,NLD,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.315
+193,NLD,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.32
+194,NLD,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.324
+195,NZL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.258
+196,NZL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.233
+197,NZL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.262
+198,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.317
+199,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.336
+200,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.362
+201,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.367
+202,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.369
+203,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.368
+204,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.356
+205,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.353
+206,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.352
+207,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.353
+208,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.343
+209,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.337
+210,NOR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.35
+211,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.294
+212,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.273
+213,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.277
+214,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.249
+215,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.267
+216,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.28
+217,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.272
+218,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.269
+219,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.271
+220,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.292
+221,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.288
+222,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.284
+223,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.286
+224,POL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.282
+225,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.289
+226,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.295
+227,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.265
+228,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.259
+229,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.269
+230,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.259
+231,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.247
+232,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.287
+233,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.31
+234,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.326
+235,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.299
+236,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.296
+237,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.294
+238,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.28
+239,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.287
+240,PRT,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.266
+241,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.25
+242,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.263
+243,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.277
+244,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.268
+245,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.29
+246,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.313
+247,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.31
+248,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.301
+249,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.299
+250,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.332
+251,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.343
+252,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.338
+253,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.403
+254,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.321
+255,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.347
+256,SVK,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.284
+257,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.311
+258,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.317
+259,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.347
+260,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.352
+261,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.379
+262,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.384
+263,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.38
+264,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.403
+265,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.378
+266,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.389
+267,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.346
+268,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.366
+269,ESP,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.356
+270,SWE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.246
+271,SWE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.239
+272,SWE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.228
+273,SWE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.225
+274,SWE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.225
+275,SWE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.23
+276,SWE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.233
+277,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.298
+278,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.317
+279,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.286
+280,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.268
+281,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.289
+282,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.252
+283,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.238
+284,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.243
+285,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.24
+286,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.262
+287,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.263
+288,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.274
+289,CHE,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.281
+290,TUR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.308
+291,TUR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.302
+292,TUR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.294
+293,TUR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.306
+294,TUR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.282
+295,TUR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.264
+296,TUR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.284
+297,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2002,0.284
+298,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2003,0.293
+299,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.294
+300,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.296
+301,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.311
+302,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.306
+303,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.324
+304,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.325
+305,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.316
+306,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.302
+307,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.332
+308,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.306
+309,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.316
+310,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.322
+311,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.355
+312,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.344
+313,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.368
+314,GBR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.326
+315,USA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.402
+316,USA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.405
+317,USA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.4
+318,USA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.398
+319,USA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.388
+320,USA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.376
+321,USA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.368
+322,EST,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.294
+323,EST,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.283
+324,EST,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.267
+325,EST,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.265
+326,EST,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.261
+327,EST,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.262
+328,EST,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.273
+329,ISR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.334
+330,ISR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.352
+331,ISR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.384
+332,ISR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.352
+333,ISR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.321
+334,ISR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.318
+335,ISR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.329
+336,ISR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.325
+337,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.241
+338,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.247
+339,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.23
+340,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.239
+341,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.23
+342,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.226
+343,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.225
+344,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.233
+345,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.225
+346,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.239
+347,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.234
+348,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.241
+349,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.226
+350,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.215
+351,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.217
+352,SVN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.205
+353,JPN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.364
+354,CHL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.339
+355,CHL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.317
+356,CHL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.315
+357,CHL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.31
+358,CHL,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.31
+359,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.359
+360,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.331
+361,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.315
+362,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.308
+363,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.311
+364,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.347
+365,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.34
+366,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.329
+367,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.317
+368,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.306
+369,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.286
+370,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.306
+371,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.31
+372,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.33
+373,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.306
+374,LVA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.306
+375,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.32
+376,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2005,0.324
+377,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.297
+378,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.3
+379,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.29
+380,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.376
+381,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.354
+382,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.285
+383,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.277
+384,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.305
+385,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.326
+386,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.313
+387,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.346
+388,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.332
+389,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.328
+390,LTU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.282
+391,BRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.391
+392,BRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.36
+393,BRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.409
+394,BRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.386
+395,BRA,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.446
+396,CHN,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.565
+397,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.353
+398,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.367
+399,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.374
+400,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.384
+401,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.379
+402,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.387
+403,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.378
+404,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.365
+405,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.376
+406,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.36
+407,CRI,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2020,0.379
+408,IND,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2004,0.35
+409,IND,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.362
+410,RUS,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.313
+411,RUS,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.254
+412,RUS,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.254
+413,ZAF,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.431
+414,ZAF,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.443
+415,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.386
+416,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.308
+417,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.301
+418,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.307
+419,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.315
+420,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.333
+421,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.321
+422,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.348
+423,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.321
+424,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.37
+425,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.347
+426,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.304
+427,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.298
+428,BGR,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.313
+429,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2006,0.359
+430,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2007,0.36
+431,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2008,0.365
+432,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2009,0.323
+433,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2010,0.35
+434,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2011,0.381
+435,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2012,0.392
+436,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2013,0.389
+437,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2014,0.42
+438,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2015,0.388
+439,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2016,0.383
+440,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2017,0.39
+441,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2018,0.394
+442,ROU,"Mean Poverty gap after taxes and transfers, Poverty line 50%",2019,0.382
