@@ -29,10 +29,12 @@ TRUNCATE TABLE WB_Population;
 LOAD DATA LOCAL INFILE '/Users/ericmartinet/Documents/GitHub/Poverty_composite_indicator/Data/WB_Population.csv'
 INTO TABLE WB_Population
 FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
-(@col1, @col2, @col3, @col4) SET C_ISO3 = @col2, Year = @col3 , Value = NULLIF(@col4,'');
+(@col1, @col2, @col3, @col4, @col5) SET C_ISO3 = @col2, Year = @col3 , Value = NULLIF(@col4,''), Description = @col5;
 # Put NULL if Value is empty
+
 
 TRUNCATE TABLE OECD_GDP;
 LOAD DATA LOCAL INFILE '/Users/ericmartinet/Documents/GitHub/Poverty_composite_indicator/Data/OECD_GDP.csv'
