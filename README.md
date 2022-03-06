@@ -86,6 +86,8 @@ Our repo is organised as follows:
 ## Links
 [This repository](https://github.com/eric-martinet/Poverty_composite_indicator/)
 
+[Canva presentation](https://www.canva.com/design/DAE6PUT1mes/LuosCamjI5xOoI6We61vSw/view?utm_content=DAE6PUT1mes&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 Datasources:
 
 - [OECD Data](https://data.oecd.org)

@@ -21,7 +21,7 @@ ON CI.CountryName = CLAY.CountryName AND CI.Year = CLAY.LatestAvailableYear
 ORDER BY CI.CostClosingRPovertyPercGDP ASC
 LIMIT 5;
 # Ireland is the country for which the cost-to-GDP of closing relative poverty is the lowest (3.2%).
-# The top 5 countries tend to have a poverty line relatively high compared to the GDP per capita (around 20% or below).
+# The top 5 countries tend to have a poverty line relatively low compared to the GDP per capita (around 20% or below).
 # It denotes relative equality among the general population as the poverty line is half the media disposable income.
 
 # Display all indicators for bottom 5 countries in Cost of Closing Relative Poverty as % of GDP (bottom = greater) for latest available year
