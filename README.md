@@ -33,7 +33,7 @@ While the Poverty Line helps us measure the *incidence* of poverty, this indicat
 
 It is computed as follows:
 
-![CERP %GDP formula](./CCRP_indicator.png)
+![CERP %GDP formula](./CERP_indicator.png)
 
 where:
 
