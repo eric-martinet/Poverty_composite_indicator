@@ -22,7 +22,9 @@ The goals of this project were:
 3. To implement queries that return useful insights about the data.
 
 ## Project Organisation
-We completed this project over a week-end, using Jira for planning and Slack for communication.
+We completed this project over a week-end, using Jira for planning (3 sprints - not necessary but as an exercise to practice the tool) and Slack for communication.
+
+![JIRA planning](./JIRA_planning.png)
 
 ## Composite Indicator Methodology
 We have developped the "Cost of Closing Relative Poverty as % of GDP" indicator. It expresses (as % of GDP) the amount of money to be transferred to the poor to take them out of relative poverty (i.e. compared to the rest of the population), assuming perfect transfer targeting and efficiency.
@@ -68,6 +70,8 @@ We used two sources of data to feed our database.
 2. World Bank's DataBank: extensive datasets on economy, development, education, health, etc. for all countries in the world.
 	- Population: we fetched the Total population (SP.POP.TOTL) for for all countries and all years between 2000 and 2020
 
+> We could have used a single datasource, but the goal was to practice scrapping from various datasources and in various ways (direct API calls for the OECD - requiring extensive reading of the documentation, and user-friendly API wrapper wbgapi for the World Bank)
+
 
 
 ## Repo structure
@@ -86,6 +90,7 @@ Datasources:
 
 - [OECD Data](https://data.oecd.org)
 - [World Bank's DataBank](https://databank.worldbank.org)
+- [wbgapi: World Bank's API wrapper for Python](https://pypi.org/project/wbgapi/)
 
 To explore the topic in a deeper way:
 
