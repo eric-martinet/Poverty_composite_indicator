@@ -27,13 +27,13 @@ We completed this project over a week-end, using Jira for planning (3 sprints - 
 ![JIRA planning](./JIRA_planning.png)
 
 ## Composite Indicator Methodology
-We have developped the "Cost of Closing Relative Poverty as % of GDP" indicator. It expresses (as % of GDP) the amount of money to be transferred to the poor to take them out of relative poverty (i.e. compared to the rest of the population), assuming perfect transfer targeting and efficiency.
+We have developped the "Cost of Ending Relative Poverty as % of GDP" indicator. It expresses (as % of GDP) the amount of money to be transferred to the poor to take them out of relative poverty (i.e. compared to the rest of the population), assuming perfect transfer targeting and efficiency.
 
 While the Poverty Line helps us measure the *incidence* of poverty, this indicator tries to help us measure its *intensity*.
 
 It is computed as follows:
 
-![CCRP %GDP formula](./CCRP_indicator.png)
+![CERP %GDP formula](./CCRP_indicator.png)
 
 where:
 
